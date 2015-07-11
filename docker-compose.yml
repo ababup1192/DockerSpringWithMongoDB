@@ -1,0 +1,4 @@
+spring:
+  build: .
+  ports:
+    - "9000:9000"
